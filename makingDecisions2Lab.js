@@ -7,7 +7,7 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-
+let firstItem = 10
 
 ////////// PROBLEM 2 //////////
 /*
@@ -15,7 +15,8 @@ var arr = [10,20,30,40,50,60]
 */
 
 //Code Here
-
+lastItemRemoved = arr.pop()
+  console.log(arr)
 ////////// PROBLEM 3 //////////
 
 // Do not edit the code below.
@@ -27,7 +28,6 @@ var family = ['Tyler', 'Jordan', 'Ryan', 'Alice', 'Ireland'];
 */
 
 //Code Here
-
 
 
 ////////// PROBLEM 4 //////////
