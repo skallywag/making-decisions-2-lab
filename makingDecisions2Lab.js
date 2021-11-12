@@ -5,7 +5,7 @@ var arr = [10,20,30,40,50,60]
 /*
   Create a variable named 'firstItem' and set it equal to the first value of the 'arr' array.
 */
-
+log
 //Code Here
 let firstItem = arr[0]
   console.log(firstItem)
@@ -168,10 +168,10 @@ switch(letterGrade){
         break;
   case 'F':
       console.log('The student is failing.')
-        break;
+        break;  
+  default:
+      console.log('Not an eligible grade.'); // Default is similar to 'else'
 }
-
-
 
 ////////// PROBLEM 11 //////////
 /* The famous FizzBuzz, Devmountain style!
